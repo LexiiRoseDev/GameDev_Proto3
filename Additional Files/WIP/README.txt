@@ -1,0 +1,1 @@
+The WIP folder is a home for all files that are a work in progress, work that isn't finalised. This gives you a chance to upload work to the repository outside of the Unreal project until it is ready to be fully implemented.
